@@ -3,14 +3,16 @@ CS 5356: Startup Systems Design and Engineering
 
 ![Cornell Tech](images/cornell-logo.png "Cornell Tech")
 
+* [Cornell Tech](http://tech.cornell.edu)
+
 Essentials
 ----------
 
 Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
 
-* [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup).
+* [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
+* [Logistics, Location, Class, Office Hours](course/logistics.md)
 * [Syllabus](course/syllabus.md)
-* [Logistics](course/logistics.md)
 
 Lectures
 --------
@@ -43,6 +45,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
+* [GitRank](projects/gitrank.md)
 
 People
 ------
@@ -65,6 +68,13 @@ People
 #### Guest Lecturers
 
 Read about guest lectures [here](course/guest-lectures.md).
+
+#### Students
+
+* [Bochen Wang](people/bochen-wang.md)
+* [Daniel Speiser](people/daniel-speiser.md)
+* [Nicolas Joseph](people/nicolas-joseph.md)
+* [Haotian Zhang](people/haotian-zhang.md)
 
 Copyright & License
 -------------------
